@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+imapclient
+python-dotenv
+joblib
